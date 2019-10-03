@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Forms</string>
+    <string name="select_any_option">SELECT ANY OPTION</string>
+    <string name="input_info">Input Info</string>
+    <string name="chech_info">CHECH INFO</string>
+    <string name="my_form">MY FORM</string>
+    <string name="todo">TODO</string>
+</resources>
